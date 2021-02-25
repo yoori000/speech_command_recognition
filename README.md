@@ -9,5 +9,5 @@
 - model.py
 - predict.py
 - train.py
-- util.py
+- util.py  
 speech_recognition.py 내용들 모듈화
